@@ -4,4 +4,6 @@ class Tree{
 
 }
 
-class Deciduous extends Tree{}
+class Deciduous extends Tree{
+  
+}
